@@ -6,14 +6,7 @@
   <p align="center">
     Selamat datang di portofolio saya! Saya Tri Suci Wulandari, lulusan Sistem Informasi dengan minat dalam pengembangan perangkat lunak.
     <br />
-    <a href="#kontak"><strong>Hubungi Saya »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/username/repository">Lihat Demo</a>
-    ·
-    <a href="https://github.com/username/repository/issues">Laporkan Masalah</a>
-    ·
-    <a href="https://github.com/username/repository/issues">Ajukan Fitur</a>
+  
   </p>
 </p>
 
