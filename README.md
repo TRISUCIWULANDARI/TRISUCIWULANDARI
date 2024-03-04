@@ -1,7 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
-
+  <img src="[images/logo.png](https://github.com/TRISUCIWULANDARI/FOTO/blob/main/Gambar%20WhatsApp%202024-02-21%20pukul%2009.02.32_1c459221.jpg)" alt="Logo" width="80" height="80">
   <h3 align="center">Portofolio Tri Suci Wulandari</h3>
   <p align="center">
     Selamat datang di portofolio saya! Saya Tri Suci Wulandari, lulusan Sistem Informasi dengan minat dalam pengembangan perangkat lunak.
